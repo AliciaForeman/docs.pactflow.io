@@ -17,9 +17,9 @@ Providers may specify an OpenAPI Specification as a Provider Contract, enabling 
 
 Pact Consumer Contracts are the only compatible contracts at this time.
 
-## Publishing the Provider Contract + Results to Pactflow
+## Publishing the Provider Contract + Results to PactFlow
 
-There are several ways to currently publish contracts to Pactflow.
+There are several ways to currently publish contracts to PactFlow.
 
 The links in the list will take you to the respective documentation in each repo.
 
